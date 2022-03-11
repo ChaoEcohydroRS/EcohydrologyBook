@@ -1,7 +1,8 @@
 # Table of contents
 
-* [🙂 Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [🦊 Welcome!](README.md)
+* [🐼 Page 1](page-1.md)
+* [🐶 Quick Start](quick-start.md)
 
 ## Reference
 
