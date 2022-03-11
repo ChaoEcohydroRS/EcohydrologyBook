@@ -2,11 +2,13 @@
 description: Preface
 ---
 
-# Welcome!
+# 🙂 Welcome!
 
 ## Welcome to MyAPI
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+test/
+
+### Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
 ## Want to jump right in?
 
