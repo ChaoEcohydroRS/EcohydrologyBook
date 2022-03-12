@@ -2,6 +2,7 @@
 
 * [🦊 Welcome!](README.md)
 * [🐼 Preface](preface.md)
+* [🏈 The philosophy of starting RS](the-philosophy-of-starting-rs.md)
 * [🐶 Quick Start](quick-start.md)
 
 ## Reference
