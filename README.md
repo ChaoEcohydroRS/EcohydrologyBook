@@ -2,26 +2,13 @@
 description: Preface
 ---
 
-# 🙂 Welcome!
+# 🦊 Welcome!
 
-## Welcome to MyAPI
+## Welcome to My Book
 
-test/
 
-### Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
-## Want to jump right in?
+### Welcome to My Book! I am writing this book because I really want to summarize the research works I did during my past 10 years.&#x20;
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+### Here you'll find a story about how I grow up as a remote sensing scholar. As a Chinese, I still have a little bit "zhongyong"(can read this book "The Doctrine of the Mean").
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
-
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
-{% endcontent-ref %}
